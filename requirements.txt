@@ -1,5 +1,5 @@
 python-nmap~=0.6.1
-urllib3~=1.25.10
+urllib3~=2.5.0
 pip~=20.2.2
 wheel~=0.34.2
 cryptography~=3.0
